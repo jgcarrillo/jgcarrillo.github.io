@@ -5,7 +5,7 @@ layout: default
 
 ## Featured projects{.proyectos-destacados}
 
--   This web is made with **Jekyll**, a JAMStack framework for build static websites. The code is [here](https://github.com/jgcarrillo/jgcarrillo.github.io).
+-   This web is made with **11ty**, a JAMStack framework for build static websites. The code is [here](https://github.com/jgcarrillo/jgcarrillo.github.io). I also have an old version made with Jekyll [available here](https://github.com/jgcarrillo/jekyll-personal-web).
 
 -   **TrelloJS Clone** made with HTML, CSS (Grid Layout). I did this project in order to improve my skills with JavaScript and use of DOM. The [code is in my GitHub profile](https://github.com/jgcarrillo/trello-js-app).
 
