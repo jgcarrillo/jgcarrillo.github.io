@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en_US">
+
+  {% include 'partials/head.njk' %}
+
+  <body>
+    {% include 'partials/header.njk' %}
+
+    <main class="entry">
+
+      {% if title === '404: Page not found' %}
+      {% else %}
+        {% include 'partials/date.njk' %}
+      {% endif %}
+
+
+      <div class="e-content">
+        {{ content | safe }}
+      </div>
+    </main>
+
+    {% include 'partials/navbar.njk' %}
+    {% include 'partials/footer.njk' %}
+
+  </body>
+</html>

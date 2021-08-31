@@ -1,0 +1,22 @@
+version: 2
+updates:
+     # Maintain dependencies for npm
+    - package-ecosystem: 'npm'
+      directory: '/'
+      schedule:
+          interval: 'daily'
+      labels:
+          - 'dependencies'
+      commit-message:
+          prefix: 'chore'
+          include: 'scope'
+
+    # Maintain dependencies for gh-pages
+    - package-ecosystem: "github-actions"
+        directory: "/"
+        schedule:
+            interval: "daily"
+        labels:
+            - "CI/CD"
+        commit-message:
+            prefix: ci

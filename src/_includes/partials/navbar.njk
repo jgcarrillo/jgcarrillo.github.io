@@ -1,0 +1,10 @@
+<nav class="menu">
+	<section class="menu__menu">
+		<strong class="menu__title">More</strong>
+		<ul class="menu__list">
+			{% for link in navlinks.navlinks %}
+			<li class="menu__item"><a href="{{ link.url }}" title="{{ link.title }}">{{ link.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</section>
+</nav>
