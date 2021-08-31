@@ -15,35 +15,35 @@ With the aim of have a record about my dev world, I have prepared this post in w
 
 My main editor is **VS Code** but I also have used IntelliJ IDEA, PHPStorn and PyCharm. In general, I have installed the Vim extension in all of them, but in VS Code I also have these **extensions**:
 
--   Auto Close Tag.
--   Auto Rename Tag.
--   Bracket Pair Colorizer.
+-   Auto Close Tag
+-   Auto Rename Tag
+-   Bracket Pair Colorizer
 -   Error Lens
--   HTML Snippets.
--   JavaScript (ES6) code snippets.
--   Lucy (theme).
--   Oen in browser.
+-   HTML Snippets
+-   JavaScript (ES6) code snippets
+-   Lucy (theme)
+-   Oen in browser
 -   Remote WSL
--   TODO Highlight.
+-   TODO Highlight
 -   Vim
 -   Vscode icons
 -   Docker
--   ESLint.
--   HTML CSS Support.
--   Live Server.
+-   ESLint
+-   HTML CSS Support
+-   Live Server
 -   Prettier
--   Stylelint.
--   Trailing Spaces.
--   Visual Studio IntelliCode.
--   Color Highlight.
--   Nunjucks Template.
+-   Stylelint
+-   Trailing Spaces
+-   Visual Studio IntelliCode
+-   Color Highlight
+-   Nunjucks Template
 
 ## WSL
 
 I have installed **WSL in Windows 10** with the following features:
 
--   Vim.
--   Oh my zsh with robbyrussel theme. Plugins: zsh auto suggestions, zsh syntax highlighting and zsh completions.
+-   Vim
+-   Oh my zsh with robbyrussel theme. Plugins: zsh auto suggestions, zsh syntax highlighting and zsh completions
 -   Exa
 -   Tmux
 -   Neofetch
