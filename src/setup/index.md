@@ -47,4 +47,5 @@ I have installed **WSL in Windows 10** with the following features:
 -   Exa
 -   Tmux
 -   Neofetch
+-   Htop
 -   Node with nvm
