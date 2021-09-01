@@ -13,4 +13,4 @@ layout: default
 
 -   Continued with Vanilla JavaScript, I have made a web that allows you to upload an image and download it again with a **custom background**, without any server. [Just check the code and tell me what you think!](https://github.com/jgcarrillo/javascript-image-uploader).
 
--   I have a bunch of projects in my **Codepen profile**. There are several webs made with JavaScript and Bootstrap. Do you want the code? [here it is](https://codepen.io/jgcarrillo/)
+-   I have a bunch of projects in my **Codepen profile**. There are several webs made with JavaScript and Bootstrap. Do you want the code? [here it is](https://codepen.io/jgcarrillo/).
