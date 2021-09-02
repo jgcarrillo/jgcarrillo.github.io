@@ -15,7 +15,7 @@ Welcome to my new website (same design, **different static generator**). I decid
 
 -   Dependabot for npm dependencies and GitHub Actions.
 -   Better implementation of JavaScript helpers, mainly date functions, so I don't have to change it manually.
--   I decided to remove the **Blog** section because I don't want to spend all my time writing posts that no one is going to read.
+-   I decided to remove the **Blog** section because I don't want to spend all my time writing posts that no one is going to read. Anyway, if you want to read some of them I have posted before, click [here](https://jgcarrillo-jekyll-web.netlify.app/blog).
 
 ### 🚀 Installation
 
