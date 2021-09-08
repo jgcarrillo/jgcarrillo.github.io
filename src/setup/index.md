@@ -31,11 +31,36 @@ My main editor is **VS Code** but I also have used IntelliJ IDEA, PHPStorn and P
 
 ## WSL
 
-I have installed **WSL in Windows 10** with the following features:
+I have installed **WSL in Windows 10** (Ubuntu 20.04.3 LTS) with the following features:
 
 | package                          | package                                                                    |
 | -------------------------------- | -------------------------------------------------------------------------- |
 | Vim                              | Exa                                                                        |
 | Tmux                             | Neofetch                                                                   |
-| Htop                             | Node with nvm                                                              |
+| Ruby version Manager (rvm)       | Node with nvm                                                              |
 | Oh my zsh with robbyrussel theme | Plugins: zsh auto suggestions, zsh syntax highlighting and zsh completions |
+
+## VIM
+
+Recently, I have started using and configure VIM 8. I think it's an editor with many possibilities and it have a workflow that suits me. It's for **experimental purposes** only, because although I have installed several plugins and configuration files, I still don't know how to use it properly.
+
+| plugin             | plugin            |
+| ------------------ | ----------------- |
+| coc.nvim           | vim-devicons      |
+| vim-bundler        | vim-rails         |
+| nord-vim           | vim-airline       |
+| vim-airline-themes | vim-dim           |
+| ack.vim            | ale               |
+| close-buffers      | ctrlp             |
+| echodoc            | editorconfig      |
+| emmet-vim          | FastFold          |
+| goyo               | nerdtree          |
+| pear-tree          | splitjoin         |
+| supertab           | tabular           |
+| tagbar             | undotree          |
+| vim-bookmarks      | vim-closetag      |
+| vim-endwise        | vim-fugitive      |
+| vim-gutter         | vim-indent-object |
+| vim-numbertoggle   | vim-obsession     |
+| vim-polyglot       | vim-surround      |
+| vim-unimpaired     | vimwiki           |
