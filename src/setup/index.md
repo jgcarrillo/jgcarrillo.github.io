@@ -42,6 +42,7 @@ I have installed **WSL in Windows 10** (Ubuntu 20.04.3 LTS) with the following f
 | Tmux                             | Neofetch                                                                   |
 | Ruby version Manager (rvm)       | Node with nvm                                                              |
 | Oh my zsh with robbyrussel theme | Plugins: zsh auto suggestions, zsh syntax highlighting and zsh completions |
+| ctop                             | dry                                                                        |
 
 ## VIM
 
