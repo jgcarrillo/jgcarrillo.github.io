@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 280 280">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #48ca8c;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        font-size: 246px;
+        fill: #48ca8c;
+        font-family: Nickainley;
+      }
+    </style>
+  </defs>
+  <text id="jg" class="cls-1" x="99" y="178">jg</text>
+</svg>
