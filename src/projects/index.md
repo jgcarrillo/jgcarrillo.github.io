@@ -5,6 +5,8 @@ layout: default
 
 ## Featured projects{.proyectos-destacados}
 
+- My biggest project is **Reverse Recipes**, an app made with Laravel, Vue, Tailwind, InertiaJS and JetStream to fetch recipes by ingredient, user management and more. [Just take a look!](https://github.com/jgcarrillo/reverse-recipes)
+
 - **Telegram Resume Bot**. Made with NodeJS and deployed on Netlify. You can check it out if you type _@JGCarrilloResumeBot_ in Telegram.
 
 - This web is made with **11ty**, a JAMStack framework for build static websites. The code is [here](https://github.com/jgcarrillo/jgcarrillo.github.io). I also have an old version made with Jekyll [available here](https://github.com/jgcarrillo/jekyll-personal-web).
