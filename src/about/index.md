@@ -7,6 +7,6 @@ Like any other Gen Y kid, I grew up with **Pokemon anime series, Game Boy cartri
 
 I don't know why, but I studied Building Engineering (like an architect but more technical), that allows me to work in different companies such as **Real State or as a freelancer**. Over time, I realized that my passion was different, so I decided to move on software development.
 
-I'm currently studying a **Higher Technician in Web Applications Development** here in Murcia (Spain). At the moment I'm very keen on JavaScript, PHP, Angular and Symfony and I'm quite excited defending good programming practises. My goal for the next few years is to start my professional career as a Web Developer, no matter if I work as front-end or back-end developer.
+I studied **Higher Technician in Web Applications Development** here in Murcia (Spain). At the moment I'm very keen on JavaScript, Vue and Laravel and I'm quite excited defending good programming practises.
 
 If you are interested in contact with me, you can send me an email at `jorgegomezweb (at) gmail.com`
