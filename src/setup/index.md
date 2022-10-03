@@ -9,7 +9,7 @@ With the aim of have a record about my dev world, I have prepared this post in w
 
 - Laptop MSI GF75 Thin 95C. Intel Core i7-9795H CPU @2.60GHz 16GM RAM. NVIDIA GeForce GTX 1650.
 - Windows 10 Pro 64 bits.
-- Keyboard Geek GK61 60% hot swappable with Gateron Yellow Switches.
+- Keyboard Geek GK61 60% hot swappable with Gateron Blue Switches.
 
 ## Editors
 

@@ -1,11 +1,10 @@
 {
-	"navlinks": [
-		{ "title": "Home", "url": "/" },
-		{ "title": "GitHub", "url": "https://github.com/jgcarrillo/" },
-		{ "title": "Codepen", "url": "https://codepen.io/jgcarrillo/" },
-		{ "title": "Projects", "url": "/projects" },
-		{ "title": "About", "url": "/about" },
-		{ "title": "SetUp", "url": "/setup" },
-		{ "title": "Contact", "url": "/contact" }
-	]
+  "navlinks": [
+    { "title": "Home", "url": "/" },
+    { "title": "GitHub", "url": "https://github.com/jgcarrillo/" },
+    { "title": "Projects", "url": "/projects" },
+    { "title": "About", "url": "/about" },
+    { "title": "SetUp", "url": "/setup" },
+    { "title": "Contact", "url": "/contact" }
+  ]
 }
