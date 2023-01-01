@@ -1,3 +1,5 @@
+# ⚠️ This is the code of my **old** personal website. The new new is available at [https://jgcarrillo.com/](https://jgcarrillo.com/) ⚠️ #
+
 # 🪔 JGCarrillo Personal Website made with 11ty 🪔
 
 ## Table of contents 👇
